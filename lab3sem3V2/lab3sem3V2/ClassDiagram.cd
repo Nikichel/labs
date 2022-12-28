@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tourist" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAgAQAAAhAAAAAAACAAAAIAAEAAAAoAIAAAAA=</HashCode>
+      <FileName>Tourist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAgAAAEAAAAEAEAAAAAAAEAABAEAAkAQQAAAA=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entrepreneur" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACgAAAAAAAAIRBAAAAAAACIAAaAAAoAAgAAAA=</HashCode>
+      <FileName>Entrepreneur.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAIAAAAAEAAAAEQAAAAAAAAgABCAAgAEQAQAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgkQAAAAAAAAAAAAAAEBAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Business.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="cross" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIACAAAwAAAAAAA=</HashCode>
+      <FileName>Tourist.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tax" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAA=</HashCode>
+      <FileName>Entrepreneur.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="addres" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAgAGAAAgAAAAAAA=</HashCode>
+      <FileName>Entrepreneur.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
