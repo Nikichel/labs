@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Nikitoska228\source\repos\lab2 sem 3\lab2 sem 3\Class.h(16,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  funs.cpp
+C:\Users\Nikitoska228\source\repos\lab2 sem 3\lab2 sem 3\Class.h(16,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nikitoska228\source\repos\lab2 sem 3\lab2 sem 3\funs.cpp(6,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nikitoska228\source\repos\lab2 sem 3\lab2 sem 3\funs.cpp(22,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lab2 sem 3.vcxproj -> C:\Users\Nikitoska228\source\repos\lab2 sem 3\x64\Debug\lab2 sem 3.exe
