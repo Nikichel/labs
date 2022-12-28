@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Business">
+    <Position X="2" Y="17.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgkQAAAAAAAAAEQAAAEBAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Business.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="checking" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAABAAAAAAAAAAAAAAAACCAAAAAAAAACAAA=</HashCode>
+      <FileName>checking.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAIAAAAAEAAAAEQQAAAAAAAgABCAAgCEQAQgA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entrepreneur">
+    <Position X="0.5" Y="12" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACgAAAAAAAAIRBEQAAAAACIAAaAAAoAAgAAAA=</HashCode>
+      <FileName>Entrepreneur.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human">
+    <Position X="2.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAUAAgAAAEAAAAEAEEQAAAAAEAABAEAAkAQQAAgA=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myInterface" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAEAAAAgAAAAAAIAAAAAAAAEAAgA=</HashCode>
+      <FileName>interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyException">
+    <Position X="6.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAAAAAAAAAAAIAAAAQAAAAAAAAAAACA=</HashCode>
+      <FileName>MyException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyExceptionDATE">
+    <Position X="1" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAgBAAA=</HashCode>
+      <FileName>MyExceptionDATE.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyExceptionFILE">
+    <Position X="4.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAACAAAAAAAIAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>MyExceptionFILE.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyExceptionNUM">
+    <Position X="8" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAEAIAAAABAAAAAAAAAA=</HashCode>
+      <FileName>MyExceptionNUM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyExceptionSTR">
+    <Position X="11.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAACAQAAAAAAAAYAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyExceptionSTR.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFile&lt;T&gt;">
+    <Position X="9.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAABAAAAAAAAAAAAAAAABBAAAAAIAIAACAAIgA=</HashCode>
+      <FileName>MyFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyTextFile">
+    <Position X="10.5" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAACAACAAAAAAAAAAAAAAAAQAAAAAE=</HashCode>
+      <FileName>MyTextFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="queue&lt;T&gt;" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAACAAAgAAAAAAgCIBQgAAAAAAAAAAABCAgAAAAQgA=</HashCode>
+      <FileName>Queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tourist">
+    <Position X="3.75" Y="12" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAgAQAAAhAAAAAEQCAAAAIAAEAAAAoAIAAAAA=</HashCode>
+      <FileName>Tourist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="node&lt;T&gt;" Collapsed="true">
+    <Position X="15.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAAABAAAAAAAAAAAAAAAAAQAAAAAgAAAAABA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tax" Collapsed="true">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="addres" Collapsed="true">
+    <Position X="15.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAACAAAAAAAAgAEAAAgAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cross" Collapsed="true">
+    <Position X="17" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIACAAAwAAAAAAA=</HashCode>
+      <FileName>Struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
